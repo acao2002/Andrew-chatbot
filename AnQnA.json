@@ -1,0 +1,92 @@
+[
+    {
+        "Question" : "What is your name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "May i have your name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "What name do people call you?",
+        "Intention" : "name",
+        "Answers" : ""
+    },
+    {
+        "Question" : "How should I address you?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "What is your name, please?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "How old are you?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "Do you mind if I asked you your age?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "What's your age?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "What is your name?",
+        "Intention" : "name",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "Where are you from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "Where did you grow up?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "Where are you originally from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "Where did you study and grow up?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "Hello!",
+        "Intention" : "greeting",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "Good morning",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Good afternoon",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Hi",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "What's up",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    }
+]
