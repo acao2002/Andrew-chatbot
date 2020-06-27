@@ -15,10 +15,10 @@ for item in datastore:
     intentions.append(item['Intention'])
 
 dictlabel = {
-    "name" : 1,
-    "age" : 2,
-    "origin": 3,
-    "greeting" : 4,
+    "name" : 0,
+    "age" : 1,
+    "origin": 2,
+    "greeting" : 3,
 }
 outputLength = len(dictlabel)
 tokenizer = Tokenizer()
@@ -38,14 +38,19 @@ for item in intentions:
 
 training_padded = np.array(training_padded)
 training_labels = np.array(training_labels)
+training_labels = tf.keras.utils.to_categorical(training_labels, num_classes= 4)
 
 print(training_padded)
+print(training_labels)
 model = tf.keras.Sequential([
-    tf.keras.layers.Embedding(total_words, 16, input_length= max_sequence_len),
+    tf.keras.layers.Input(shape=(9,)),
+    tf.keras.layers.Embedding(total_words+1, 100, input_length= max_sequence_len, trainable = False),
     tf.keras.layers.GlobalAveragePooling1D(),
-    tf.keras.layers.Dense(4, activation='softmax')
+    tf.keras.layers.Dense(16, activation='relu'),
+    tf.keras.layers.Dense(4, activation='softmax'),
+    
 ])
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.summary()
 
-history = model.fit(training_padded,training_labels, epochs= 20)
+history = model.fit(training_padded,training_labels, epochs= 200)
