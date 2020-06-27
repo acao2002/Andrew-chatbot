@@ -45,7 +45,7 @@ print(training_labels)
 model = tf.keras.Sequential([
     tf.keras.layers.Input(shape=(9,)),
     tf.keras.layers.Embedding(total_words+1, 100, input_length= max_sequence_len, trainable = False),
-    tf.keras.layers.GlobalAveragePooling1D(),
+    tf.keras.layers.LSTM(150),
     tf.keras.layers.Dense(16, activation='relu'),
     tf.keras.layers.Dense(4, activation='softmax'),
     
@@ -54,3 +54,5 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 model.summary()
 
 history = model.fit(training_padded,training_labels, epochs= 200)
+
+model.save('ChatBot.h5')

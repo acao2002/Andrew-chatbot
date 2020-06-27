@@ -67,7 +67,7 @@
     {
         "Question" : "Hello!",
         "Intention" : "greeting",
-        "Answers" : "I am from HCM city, Vietnam"
+        "Answers" : "Hi!!"
     },
     {
         "Question" : "Good morning",
