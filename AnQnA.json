@@ -124,7 +124,17 @@
         "Question" : "Do you mind if I asked you your age?",
         "Intention" : "age",
         "Answers" : "I am 18 years old"
+    }, 
+    {
+        "Question" : "how can I call you??",
+        "Intention" : "name",
+        "Answers" : "An Cao"
     },
+    {
+        "Question" : "how shall I call you?",
+        "Intention" : "name",
+        "Answers" : "I am An Cao"
+    }, 
     {
         "Question" : "What's your age?",
         "Intention" : "age",
@@ -469,5 +479,100 @@
         "Question" : "what types of music do you like?",
         "Intention" : "music",
         "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "do you play any sports?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "are you doing any sports?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "do u play any sports?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "did you do any sports in school?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "are you a fan of sports?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "r u a fan of sports?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "are you athletic?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "are you into any athletic activity?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "are you an athlete?",
+        "Intention" : "sports",
+        "Answers" : "I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing"
+    },
+    {
+        "Question" : "What Is Your Favorite Hobby?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What are your hobbies?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "do you have any hobbies??",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What Is ur Favorite Hobby??",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "do u have any hobbies?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What do you do in your free time?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What do you like to do in your free time?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What are your extracurricular activities?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What r ur extracurricular activities?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What do you do outside of school?",
+        "Intention" : "hobbies",
+        "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
     }
 ]   

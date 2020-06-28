@@ -22,6 +22,8 @@ dictlabel = {
     "hru" : 4,
     "school" : 5 ,
     "music" : 6, 
+    "sports" : 7,
+    "hobbies" : 8,
 }
 outputLength = len(dictlabel)
 tokenizer = Tokenizer(filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~', oov_token ="OOV")
@@ -41,15 +43,15 @@ for item in intentions:
 
 training_padded = np.array(training_padded)
 training_labels = np.array(training_labels)
-training_labels = tf.keras.utils.to_categorical(training_labels, num_classes= 7)
+training_labels = tf.keras.utils.to_categorical(training_labels, num_classes= 9)
 
 
 model = tf.keras.Sequential([
     tf.keras.layers.Input(shape=(9,)),
-    tf.keras.layers.Embedding(total_words+1, 100, input_length= max_sequence_len, trainable = False),
+    tf.keras.layers.Embedding(total_words+1, 100, input_length= max_sequence_len),
     tf.keras.layers.LSTM(150),
     tf.keras.layers.Dense(64, activation='relu'),
-    tf.keras.layers.Dense(7, activation='softmax'),
+    tf.keras.layers.Dense(9, activation='softmax'),
     
 ])
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])

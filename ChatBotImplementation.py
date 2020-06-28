@@ -24,6 +24,8 @@ dictlabel = {
     "hru" : 4,
     "school" : 5,
     "music": 6,
+    "sports" : 7,
+    "hobbies" : 8,
 }
 outputLength = len(dictlabel)
 tokenizer = Tokenizer(filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~' , oov_token= "OOV")
