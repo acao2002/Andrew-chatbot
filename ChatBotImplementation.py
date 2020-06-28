@@ -4,6 +4,7 @@ import numpy as np
 from tensorflow import keras
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+import random
 
 with open("AnQnA.json", 'r') as f:
     datastore = json.load(f)
@@ -20,6 +21,9 @@ dictlabel = {
     "age" : 1,
     "origin": 2,
     "greeting" : 3,
+    "hru" : 4,
+    "school" : 5,
+    "music": 6,
 }
 outputLength = len(dictlabel)
 tokenizer = Tokenizer(filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~' , oov_token= "OOV")
@@ -40,10 +44,13 @@ while True:
     sequences = tokenizer.texts_to_sequences(inputlist)
     padded = pad_sequences(sequences, maxlen=max_sequence_len, padding ="pre", truncating= "post")
     result = np.argmax(model.predict(padded))
+    answers =[]
     for x,y in dictlabel.items(): 
         if result == y:
             for item in datastore:
                 if item['Intention'] == x:
                     answer = item['Answers']
-                    print(answer)
-                    break
+                    answers.append(answer)
+            randomanswer = random.choice(answers)
+            print(randomanswer)
+            break

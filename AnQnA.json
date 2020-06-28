@@ -7,32 +7,32 @@
     {
         "Question" : "your name?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "An Cao"
     },
     {
         "Question" : "your name is?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "You can call me Andrew"
     },
     {
         "Question" : "Whut is ur name??",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "Andrew Cao"
     },
     {
         "Question" : "ur name is?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "Andrew Cao"
     },
     {
         "Question" : "Whut your name?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "You can call me Andrew"
     },
     {
         "Question" : "Wut is ur name?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "An Cao"
     },
     {
         "Question" : "ur name?",
@@ -58,7 +58,12 @@
     {
         "Question" : "What is your name, please?",
         "Intention" : "name",
-        "Answers" : "My name is An Cao"
+        "Answers" : "its An Cao"
+    },
+    {
+        "Question" : "name?",
+        "Intention" : "name",
+        "Answers" : "An Cao"
     },
     {
         "Question" : "How old are you?",
@@ -188,32 +193,32 @@
     {
         "Question" : "Hey!",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Hello"
     },
     {
         "Question" : "Heyy!",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Whats up"
     },
     {
         "Question" : "Hellooo",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Hii"
     },
     {
         "Question" : "Hii",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Aloha"
     },
     {
         "Question" : "Good morning",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Heluu"
     },
     {
         "Question" : "Good afternoon",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "Hi"
     },
     {
         "Question" : "Hi",
@@ -223,6 +228,246 @@
     {
         "Question" : "What's up",
         "Intention" : "greeting",
-        "Answers" : "Hi!!"
+        "Answers" : "What's going on"
+    },
+    {
+        "Question" : "how are you",
+        "Intention" : "hru",
+        "Answers" : "I am fine, thank you"
+    },
+    {
+        "Question" : "how r u?",
+        "Intention" : "hru",
+        "Answers" : "I am fine, thank you"
+    },
+    {
+        "Question" : "how are u",
+        "Intention" : "hru",
+        "Answers" : "I am doing ok, thanks"
+    },
+    {
+        "Question" : "how are you doing",
+        "Intention" : "hru",
+        "Answers" : "I am fine thank you"
+    },
+    {
+        "Question" : "how r you doing",
+        "Intention" : "hru",
+        "Answers" : "I am doing well"
+    },
+    {
+        "Question" : "how is life",
+        "Intention" : "hru",
+        "Answers" : "good thank you"
+    },
+    {
+        "Question" : "how is everything",
+        "Intention" : "hru",
+        "Answers" : "good"
+    },
+    {
+        "Question" : "is everything going well?",
+        "Intention" : "hru",
+        "Answers" : "I am fine thank you"
+    },
+    {
+        "Question" : "how is your day",
+        "Intention" : "hru",
+        "Answers" : "its ok, thank you"
+    },
+    {
+        "Question" : "how is ur day",
+        "Intention" : "hru",
+        "Answers" : "I am good thank you"
+    },
+    {
+        "Question" : "how have you been",
+        "Intention" : "hru",
+        "Answers" : "I am fine, thank you"
+    },
+    {
+        "Question" : "how have u been",
+        "Intention" : "hru",
+        "Answers" : "I am fine, thanks"
+    },
+    {
+        "Question" : "where do you go to school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what is your school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what college are you going to?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what college are u going to?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what is ur school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where are you going for college?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where r u going for college?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where 're you going for school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "college?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what college are you a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what college r u a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "whut college are you a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "wut college r u a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where do u go to school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where are you going for university?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where r u going for university?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where 're you going for university?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "college?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what university are you a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "what university r u a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "where do u go to university?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "university?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "whut university are you a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "wut university r u a student of?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "school?",
+        "Intention" : "school",
+        "Answers" : "Vanderbilt University"
+    },
+    {
+        "Question" : "music?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc..."
+    },
+    {
+        "Question" : "do you like music?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc..."
+    },
+    {
+        "Question" : "do u like music?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "what music do you listen to?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc...I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "what kinds of music do you like?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "whut kinds of music do u like?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "wut music do you like?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "what kinds of music do you prefer?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "what music do you prefer?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "do you listen to music?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
+    },
+    {
+        "Question" : "what types of music do you like?",
+        "Intention" : "music",
+        "Answers" : "I love music, I like one direction, john mayer, lauv, ed sheeran, etc... I listen to mostly ballad, jazz, and pop"
     }
-]
+]   
