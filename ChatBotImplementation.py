@@ -22,7 +22,7 @@ dictlabel = {
     "greeting" : 3,
 }
 outputLength = len(dictlabel)
-tokenizer = Tokenizer()
+tokenizer = Tokenizer(filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~' , oov_token= "OOV")
 tokenizer.fit_on_texts(questions)
 word_index = tokenizer.word_index
 total_words = len(word_index)

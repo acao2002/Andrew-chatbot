@@ -5,6 +5,42 @@
         "Answers" : "My name is An Cao"
     },
     {
+        "Question" : "your name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "your name is?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "Whut is ur name??",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "ur name is?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "Whut your name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "Wut is ur name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    {
+        "Question" : "ur name?",
+        "Intention" : "name",
+        "Answers" : "My name is An Cao"
+    },
+    
+    {
         "Question" : "May i have your name?",
         "Intention" : "name",
         "Answers" : "My name is An Cao"
@@ -12,7 +48,7 @@
     {
         "Question" : "What name do people call you?",
         "Intention" : "name",
-        "Answers" : ""
+        "Answers" : "My name is An Cao"
     },
     {
         "Question" : "How should I address you?",
@@ -30,6 +66,56 @@
         "Answers" : "I am 18 years old"
     },
     {
+        "Question" : "How old are u?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "age?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "how old?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "what is ur age?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "what age r u?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "How old r u?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "wut is ur age?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "How old re you?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "your age is?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
+        "Question" : "ur age is?",
+        "Intention" : "age",
+        "Answers" : "I am 18 years old"
+    },
+    {
         "Question" : "Do you mind if I asked you your age?",
         "Intention" : "age",
         "Answers" : "I am 18 years old"
@@ -40,12 +126,42 @@
         "Answers" : "I am 18 years old"
     },
     {
-        "Question" : "What is your name?",
-        "Intention" : "name",
-        "Answers" : "I am 18 years old"
+        "Question" : "where r u from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
     },
     {
         "Question" : "Where are you from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "where r u orginally from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "where did u grow up?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "you from where?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "u from where?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "where you from?",
+        "Intention" : "origin",
+        "Answers" : "I am from HCM city, Vietnam"
+    },
+    {
+        "Question" : "where u from?",
         "Intention" : "origin",
         "Answers" : "I am from HCM city, Vietnam"
     },
@@ -66,6 +182,26 @@
     },
     {
         "Question" : "Hello!",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Hey!",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Heyy!",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Hellooo",
+        "Intention" : "greeting",
+        "Answers" : "Hi!!"
+    },
+    {
+        "Question" : "Hii",
         "Intention" : "greeting",
         "Answers" : "Hi!!"
     },
