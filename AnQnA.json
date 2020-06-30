@@ -574,5 +574,270 @@
         "Question" : "What do you do outside of school?",
         "Intention" : "hobbies",
         "Answers" : "I like to code in my free time and build robots. I am also into working out and I have been playing guitar for 5 years"
+    },
+    {
+        "Question" : "What movies do you watch",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What movies do u watch",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What movies do u like",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What is your favorite movie?",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "Whut are your favorite movies?",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What r your favorite movies?",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "do you like watching movies?",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What movie series do you like?",
+        "Intention" : "movies",
+        "Answers" : "the netflix series that I like are sex ed, money heist, and breaking bad. My favorite movie is La La Land, love the music, the story and the visual"
+    },
+    {
+        "Question" : "What outdoor activities do you like?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "What outdoor activities do u like?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "Whut outdoor activities do you like?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "Wut outdoor activities do you like?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "do you like outdoor activities?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "What outdoor activities in winter do you like?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "do you like winter activities?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "What outdoor activities are you into?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "What outdoor activities are you into?",
+        "Intention" : "outdoor",
+        "Answers" : "Yes I love skiing and biking"
+    },
+    {
+        "Question" : "do you like pets",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do u like pets",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do you like dogs",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do you like cats",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do you have pets?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do you like animals?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "what animals do you have at home",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "what types of pet do you like?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "do you have a pet?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "if you have a pet, what would it be?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "pets?",
+        "Intention" : "pets",
+        "Answers" : "Yes I love dogs and cats but I think I'm more of a dog person"
+    },
+    {
+        "Question" : "why did you choose Vanderbilt",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "why Vanderbilt?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "y Vanderbilt?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "why do you think Vanderbilt is good for you?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "why do you like Vanderbilt?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "how is Vanderbilt a good fit for you?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "why did u choose Vanderbilt?",
+        "Intention" : "whyschool",
+        "Answers" : "Because I love its happy vibe, and I think I will be academically challenged there"
+    },
+    {
+        "Question" : "what is your major?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what is ur major?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what are you going to study in college?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what are u going to study in college?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what is your major in college?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what are you studying?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what major are you?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what do you want to study?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what do u want to study?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what major are you pursuing in college?",
+        "Intention" : "major",
+        "Answers" : "Computer Science and possibly a minor in music "
+    },
+    {
+        "Question" : "what is your relationship status?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "what is ur relationship status?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "are you dating someone?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "do you have a girlfriend?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "are you in a relationship?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "r u in a relationship?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "are you single?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
+    },
+    {
+        "Question" : "you have a girlfriend?",
+        "Intention" : "relationship",
+        "Answers" : "I am single"
     }
 ]   
