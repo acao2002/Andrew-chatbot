@@ -48,7 +48,7 @@ you: you play sports?
 An: I used to run cross-country and play ultimate frisbee. Now I mainly workout in the gym and I am trying boxing
 ```
 
-## Lisense
+## License
 
 MIT
 
