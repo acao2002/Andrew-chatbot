@@ -49,7 +49,7 @@ for item in intentions:
 
 training_padded = np.array(training_padded)
 training_labels = np.array(training_labels)
-training_labels = tf.keras.utils.to_categorical(training_labels, num_classes= 15)
+training_labels = tf.keras.utils.to_categorical(training_labels, num_classes= outputLength)
 
 
 model = tf.keras.Sequential([
