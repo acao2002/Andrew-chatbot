@@ -1,4 +1,4 @@
-# An Chatbot 
+# Andrew's Chatbot 
 
 Too tired of breaking the ice yourself? Got too many people wanting to get to know you? That will no longer be a problem when you have a chatbot that can answer questions about yourself. Hence, I have decided to build a Machine Learning model to train my bot so as it can talk to people as if I am answering them myself. 
 
